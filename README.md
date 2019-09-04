@@ -1,3 +1,3 @@
-# Machine-Learning-1
+# Linear Regression
 
-Implemented linear regression
+linear regression with one or multiple variables
